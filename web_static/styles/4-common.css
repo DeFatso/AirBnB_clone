@@ -11,7 +11,9 @@ body {
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
+    height: 100%;
 }
+
 html {
     position: relative;
 }
